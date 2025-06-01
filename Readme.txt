@@ -1,9 +1,9 @@
 
-📸 Analog Kamera API Documentation — Gaya Jaksel Edition
+📸 Analog Kamera API Documentation 
 
 Halo bestie! Ini dia dokumentasi API buat marketplace kamera analog kesayangan lu 😎
 
-Base URL: `https://yourapi.com/api`
+Base URL: `https://backend-project-akhir-245069416476.asia-southeast2.run.app`
 
 ========================================
 1. 🔐 Auth Endpoint (Login & Register)
@@ -14,8 +14,8 @@ POST /auth/register
 
 Body:
 {
-  "username": "anakjaksel",
-  "email": "jaksel@example.com",
+  "username": "jelas anjay",
+  "email": "p@example.com",
   "password": "123456"
 }
 
